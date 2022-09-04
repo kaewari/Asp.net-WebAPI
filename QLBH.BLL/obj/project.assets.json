@@ -5484,11 +5484,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\LTCSDL\\BTL\\QLBH.BLL\\QLBH.BLL.csproj",
+      "projectUniqueName": "D:\\LTCSDL\\BTL\\Asp.net-WebAPI\\QLBH.BLL\\QLBH.BLL.csproj",
       "projectName": "QLBH.BLL",
-      "projectPath": "D:\\LTCSDL\\BTL\\QLBH.BLL\\QLBH.BLL.csproj",
+      "projectPath": "D:\\LTCSDL\\BTL\\Asp.net-WebAPI\\QLBH.BLL\\QLBH.BLL.csproj",
       "packagesPath": "C:\\Users\\sonho\\.nuget\\packages\\",
-      "outputPath": "D:\\LTCSDL\\BTL\\QLBH.BLL\\obj\\",
+      "outputPath": "D:\\LTCSDL\\BTL\\Asp.net-WebAPI\\QLBH.BLL\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\sonho\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -5505,11 +5505,11 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "D:\\LTCSDL\\BTL\\QLBH.Common\\QLBH.Common.csproj": {
-              "projectPath": "D:\\LTCSDL\\BTL\\QLBH.Common\\QLBH.Common.csproj"
+            "D:\\LTCSDL\\BTL\\Asp.net-WebAPI\\QLBH.Common\\QLBH.Common.csproj": {
+              "projectPath": "D:\\LTCSDL\\BTL\\Asp.net-WebAPI\\QLBH.Common\\QLBH.Common.csproj"
             },
-            "D:\\LTCSDL\\BTL\\QLBH.DAL\\QLBH.DAL.csproj": {
-              "projectPath": "D:\\LTCSDL\\BTL\\QLBH.DAL\\QLBH.DAL.csproj"
+            "D:\\LTCSDL\\BTL\\Asp.net-WebAPI\\QLBH.DAL\\QLBH.DAL.csproj": {
+              "projectPath": "D:\\LTCSDL\\BTL\\Asp.net-WebAPI\\QLBH.DAL\\QLBH.DAL.csproj"
             }
           }
         }

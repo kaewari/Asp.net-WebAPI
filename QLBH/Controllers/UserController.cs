@@ -86,7 +86,7 @@ namespace QLBH.Controllers
             {
                 UserModel userModel = new UserModel();
                 User u = userSvc.All.SingleOrDefault(u => u.Username == loginReq.Username);
-                string s = userSvc.userRep.userRoleRep.roleRep.GetRole(u.UserId);
+                string s = userSvc.userRep.userRoleRep.GetRole(u.UserId);
                 userModel.Username = u.Username;
                 userModel.Role = s;
                 res.SetToken(_tokenService.CreateToken(userModel));

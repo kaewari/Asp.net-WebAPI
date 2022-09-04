@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "RVRcX7oki4djSBTGfSCy494AtHDse3n2mmqhRgn7lZlpVRiWRKvVtcgPIolp+CNJWpifudvzrjv63lvbiZYZtA==",
+  "dgSpecHash": "2Z2WF/N99u0+Js95ibQ/xR6e4P/BimtnmxkWywRLMIFEJ2Vrc+8rDeRxlgnuTsGyWYaxHEPTV9yCRXriEk/dMQ==",
   "success": true,
-  "projectFilePath": "D:\\LTCSDL\\BTL\\QLBH\\QLBH.csproj",
+  "projectFilePath": "D:\\LTCSDL\\BTL\\Asp.net-WebAPI\\QLBH\\QLBH.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\sonho\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\sonho\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\3.1.28\\microsoft.aspnetcore.authentication.jwtbearer.3.1.28.nupkg.sha512",

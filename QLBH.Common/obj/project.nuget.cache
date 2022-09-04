@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "oRMV5j0Xb8QCx30CdGoAIVohsleR46ljUGzr6/GbqE1cX23P9e6h5rtbNohMtv0kkL1RLWynIjlHOVqwoF+0Sg==",
+  "dgSpecHash": "SvOtftrbVKzUS/saDSXgS1JD1kP7oKY8Wfc3oCoOrCqnYMxnX9ML1YI6+yyPa5cClO3b2vuoK0PjMTYEVS4N/w==",
   "success": true,
-  "projectFilePath": "D:\\LTCSDL\\BTL\\QLBH.Common\\QLBH.Common.csproj",
+  "projectFilePath": "D:\\LTCSDL\\BTL\\Asp.net-WebAPI\\QLBH.Common\\QLBH.Common.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\sonho\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\sonho\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",

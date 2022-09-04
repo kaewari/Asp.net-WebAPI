@@ -12,7 +12,7 @@ namespace QLBH.DAL
         public RoleRep() {}
         public string GetRole(int id)
         {
-            return All.SingleOrDefault(s => s.RoleId == id).RoleName;
+            return All.FirstOrDefault(s => s.RoleId == id).RoleName;
         }
     }
 }
