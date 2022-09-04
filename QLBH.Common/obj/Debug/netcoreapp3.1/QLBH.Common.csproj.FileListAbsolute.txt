@@ -1,0 +1,13 @@
+D:\LTCSDL\BTL\QLBH.Common\bin\Debug\netcoreapp3.1\QLBH.Common.deps.json
+D:\LTCSDL\BTL\QLBH.Common\bin\Debug\netcoreapp3.1\QLBH.Common.runtimeconfig.json
+D:\LTCSDL\BTL\QLBH.Common\bin\Debug\netcoreapp3.1\QLBH.Common.runtimeconfig.dev.json
+D:\LTCSDL\BTL\QLBH.Common\bin\Debug\netcoreapp3.1\QLBH.Common.dll
+D:\LTCSDL\BTL\QLBH.Common\bin\Debug\netcoreapp3.1\QLBH.Common.pdb
+D:\LTCSDL\BTL\QLBH.Common\obj\Debug\netcoreapp3.1\QLBH.Common.csproj.AssemblyReference.cache
+D:\LTCSDL\BTL\QLBH.Common\obj\Debug\netcoreapp3.1\QLBH.Common.GeneratedMSBuildEditorConfig.editorconfig
+D:\LTCSDL\BTL\QLBH.Common\obj\Debug\netcoreapp3.1\QLBH.Common.AssemblyInfoInputs.cache
+D:\LTCSDL\BTL\QLBH.Common\obj\Debug\netcoreapp3.1\QLBH.Common.AssemblyInfo.cs
+D:\LTCSDL\BTL\QLBH.Common\obj\Debug\netcoreapp3.1\QLBH.Common.csproj.CoreCompileInputs.cache
+D:\LTCSDL\BTL\QLBH.Common\obj\Debug\netcoreapp3.1\QLBH.Common.dll
+D:\LTCSDL\BTL\QLBH.Common\obj\Debug\netcoreapp3.1\QLBH.Common.pdb
+D:\LTCSDL\BTL\QLBH.Common\obj\Debug\netcoreapp3.1\QLBH.Common.genruntimeconfig.cache
