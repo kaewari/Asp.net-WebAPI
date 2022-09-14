@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "1VPZ37Pg8wEabi1T8rbtqi1c7Kz4epdnHTLI8+rzuVCIPv8qgCAE87z4vlY2uygsbU+xuprBPAiqAgcj87ymbw==",
+  "dgSpecHash": "jN+YomFwER0g77NyAKp8XwPL2Uw3neyI0GWN9cTMo2LwLZDiiR9xftuoaQo9PkgtlTcyoWgUxzr4SFG89gAVhA==",
   "success": true,
-  "projectFilePath": "D:\\LTCSDL\\BTL\\Asp.net-WebAPI\\QLBH.DAL\\QLBH.DAL.csproj",
+  "projectFilePath": "D:\\LTCSDL\\Asp.net-WebAPI\\Asp.net-WebAPI\\QLBH.DAL\\QLBH.DAL.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\sonho\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\sonho\\.nuget\\packages\\microsoft.aspnetcore.jsonpatch\\6.0.8\\microsoft.aspnetcore.jsonpatch.6.0.8.nupkg.sha512",

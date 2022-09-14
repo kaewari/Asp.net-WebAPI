@@ -32,7 +32,7 @@ namespace QLBH
 
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
-        {           
+        {
             services.AddControllers();
             #region -- Swagger --  
             var inf1 = new OpenApiInfo
@@ -114,8 +114,8 @@ namespace QLBH
                        ValidateIssuer = false,
                        ValidateAudience = false,
                    };
+               });
         }
-
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
         public void Configure(IApplicationBuilder app, IWebHostEnvironment env)
         {

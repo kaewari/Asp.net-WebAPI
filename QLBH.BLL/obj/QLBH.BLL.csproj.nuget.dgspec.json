@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\LTCSDL\\BTL\\Asp.net-WebAPI\\QLBH.BLL\\QLBH.BLL.csproj": {}
+    "D:\\LTCSDL\\Asp.net-WebAPI\\Asp.net-WebAPI\\QLBH.BLL\\QLBH.BLL.csproj": {}
   },
   "projects": {
-    "D:\\LTCSDL\\BTL\\Asp.net-WebAPI\\QLBH.BLL\\QLBH.BLL.csproj": {
+    "D:\\LTCSDL\\Asp.net-WebAPI\\Asp.net-WebAPI\\QLBH.BLL\\QLBH.BLL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\LTCSDL\\BTL\\Asp.net-WebAPI\\QLBH.BLL\\QLBH.BLL.csproj",
+        "projectUniqueName": "D:\\LTCSDL\\Asp.net-WebAPI\\Asp.net-WebAPI\\QLBH.BLL\\QLBH.BLL.csproj",
         "projectName": "QLBH.BLL",
-        "projectPath": "D:\\LTCSDL\\BTL\\Asp.net-WebAPI\\QLBH.BLL\\QLBH.BLL.csproj",
+        "projectPath": "D:\\LTCSDL\\Asp.net-WebAPI\\Asp.net-WebAPI\\QLBH.BLL\\QLBH.BLL.csproj",
         "packagesPath": "C:\\Users\\sonho\\.nuget\\packages\\",
-        "outputPath": "D:\\LTCSDL\\BTL\\Asp.net-WebAPI\\QLBH.BLL\\obj\\",
+        "outputPath": "D:\\LTCSDL\\Asp.net-WebAPI\\Asp.net-WebAPI\\QLBH.BLL\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\sonho\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,11 +28,11 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "D:\\LTCSDL\\BTL\\Asp.net-WebAPI\\QLBH.Common\\QLBH.Common.csproj": {
-                "projectPath": "D:\\LTCSDL\\BTL\\Asp.net-WebAPI\\QLBH.Common\\QLBH.Common.csproj"
+              "D:\\LTCSDL\\Asp.net-WebAPI\\Asp.net-WebAPI\\QLBH.Common\\QLBH.Common.csproj": {
+                "projectPath": "D:\\LTCSDL\\Asp.net-WebAPI\\Asp.net-WebAPI\\QLBH.Common\\QLBH.Common.csproj"
               },
-              "D:\\LTCSDL\\BTL\\Asp.net-WebAPI\\QLBH.DAL\\QLBH.DAL.csproj": {
-                "projectPath": "D:\\LTCSDL\\BTL\\Asp.net-WebAPI\\QLBH.DAL\\QLBH.DAL.csproj"
+              "D:\\LTCSDL\\Asp.net-WebAPI\\Asp.net-WebAPI\\QLBH.DAL\\QLBH.DAL.csproj": {
+                "projectPath": "D:\\LTCSDL\\Asp.net-WebAPI\\Asp.net-WebAPI\\QLBH.DAL\\QLBH.DAL.csproj"
               }
             }
           }
@@ -72,7 +72,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -81,18 +82,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\LTCSDL\\BTL\\Asp.net-WebAPI\\QLBH.Common\\QLBH.Common.csproj": {
+    "D:\\LTCSDL\\Asp.net-WebAPI\\Asp.net-WebAPI\\QLBH.Common\\QLBH.Common.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\LTCSDL\\BTL\\Asp.net-WebAPI\\QLBH.Common\\QLBH.Common.csproj",
+        "projectUniqueName": "D:\\LTCSDL\\Asp.net-WebAPI\\Asp.net-WebAPI\\QLBH.Common\\QLBH.Common.csproj",
         "projectName": "QLBH.Common",
-        "projectPath": "D:\\LTCSDL\\BTL\\Asp.net-WebAPI\\QLBH.Common\\QLBH.Common.csproj",
+        "projectPath": "D:\\LTCSDL\\Asp.net-WebAPI\\Asp.net-WebAPI\\QLBH.Common\\QLBH.Common.csproj",
         "packagesPath": "C:\\Users\\sonho\\.nuget\\packages\\",
-        "outputPath": "D:\\LTCSDL\\BTL\\Asp.net-WebAPI\\QLBH.Common\\obj\\",
+        "outputPath": "D:\\LTCSDL\\Asp.net-WebAPI\\Asp.net-WebAPI\\QLBH.Common\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\sonho\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -142,7 +143,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -151,18 +153,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\LTCSDL\\BTL\\Asp.net-WebAPI\\QLBH.DAL\\QLBH.DAL.csproj": {
+    "D:\\LTCSDL\\Asp.net-WebAPI\\Asp.net-WebAPI\\QLBH.DAL\\QLBH.DAL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\LTCSDL\\BTL\\Asp.net-WebAPI\\QLBH.DAL\\QLBH.DAL.csproj",
+        "projectUniqueName": "D:\\LTCSDL\\Asp.net-WebAPI\\Asp.net-WebAPI\\QLBH.DAL\\QLBH.DAL.csproj",
         "projectName": "QLBH.DAL",
-        "projectPath": "D:\\LTCSDL\\BTL\\Asp.net-WebAPI\\QLBH.DAL\\QLBH.DAL.csproj",
+        "projectPath": "D:\\LTCSDL\\Asp.net-WebAPI\\Asp.net-WebAPI\\QLBH.DAL\\QLBH.DAL.csproj",
         "packagesPath": "C:\\Users\\sonho\\.nuget\\packages\\",
-        "outputPath": "D:\\LTCSDL\\BTL\\Asp.net-WebAPI\\QLBH.DAL\\obj\\",
+        "outputPath": "D:\\LTCSDL\\Asp.net-WebAPI\\Asp.net-WebAPI\\QLBH.DAL\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\sonho\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -179,8 +181,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "D:\\LTCSDL\\BTL\\Asp.net-WebAPI\\QLBH.Common\\QLBH.Common.csproj": {
-                "projectPath": "D:\\LTCSDL\\BTL\\Asp.net-WebAPI\\QLBH.Common\\QLBH.Common.csproj"
+              "D:\\LTCSDL\\Asp.net-WebAPI\\Asp.net-WebAPI\\QLBH.Common\\QLBH.Common.csproj": {
+                "projectPath": "D:\\LTCSDL\\Asp.net-WebAPI\\Asp.net-WebAPI\\QLBH.Common\\QLBH.Common.csproj"
               }
             }
           }
@@ -220,7 +222,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -229,7 +232,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     }
